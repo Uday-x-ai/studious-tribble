@@ -4,7 +4,7 @@ import json
 import os
 
 # Replace with your Telegram bot token
-TOKEN = '7541405374:AAFI-r25zSFrpc-TnYLQxUuuv4xLuFN6gZY'
+TOKEN = '7541405374:AAGXrws2GiKMZZzLsoPSgBsZDGJDlZ5ksyI'
 bot = telebot.TeleBot(TOKEN)
 
 ADMIN_ID = 1489381549
